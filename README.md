@@ -10,13 +10,17 @@ C# · ASP.NET Core · Entity Framework Core · PostgreSQL · SQL Server · WPF
 
 ## Проекты
 
+### [Ticketline](https://github.com/ascndit/ticketline)
+
+API заявок: регистрация, JWT, хеш пароля, свои заявки с пагинацией и unit-тесты. ASP.NET Core, EF Core, PostgreSQL, Docker Compose.
+
 ### [Scoutly](https://github.com/ascndit/scoutly)
 
 API для скаутинга специалистов: вакансии, компании и профили. ASP.NET Core, Entity Framework Core, PostgreSQL.
 
 ### [WebApi](https://github.com/ascndit/WebApi)
 
-REST API клиентов и заказов. Контроллеры, сервисы, DTO, постраничная выдача, миграции EF Core и PostgreSQL.
+REST API клиентов и заказов. Сервисы, DTO, пагинация, миграции EF Core, PostgreSQL и тесты xUnit.
 
 ### [ArtKeeper](https://github.com/ascndit/ArtKeeper)
 
