@@ -10,10 +10,6 @@ C# · ASP.NET Core · Entity Framework Core · PostgreSQL · SQL Server · JWT �
 
 ## Проекты
 
-### [Ticketline](https://github.com/ascndit/ticketline)
-
-Учебный API заявок. Регистрация и вход с хешем пароля и JWT, свои заявки с пагинацией, unit-тесты и Docker Compose. ASP.NET Core, EF Core, PostgreSQL.
-
 ### [WebApi](https://github.com/ascndit/WebApi)
 
 Учебный REST API клиентов и заказов. Сервисы, DTO, фильтры и пагинация, миграции EF Core, PostgreSQL и тесты xUnit.
