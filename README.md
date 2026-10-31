@@ -6,7 +6,7 @@ Junior C#/.NET backend. Студент ВКИ НГУ, Новосибирск.
 
 ## Стек
 
-C# · ASP.NET Core · Entity Framework Core · PostgreSQL · SQL Server · JWT · xUnit · Docker Compose · WPF
+C# · ASP.NET Core · Entity Framework Core · PostgreSQL · SQL Server · xUnit · WPF
 
 ## Проекты
 
